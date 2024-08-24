@@ -1,0 +1,1 @@
+This is simple html web3 frontend for hardhat-fundme smart contract.
